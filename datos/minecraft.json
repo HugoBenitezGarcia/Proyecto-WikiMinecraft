@@ -8,7 +8,6 @@
     "attackDamage": 7,
     "enchantability": 10,
     "recommendedEnchantments": ["Filo V", "Irrompibilidad III", "Reparación", "Saqué III"],
-    "releaseDate": "2010-01-29",
     "image": "assets/img/espada-diamante.png",
     "description": "Arma cuerpo a cuerpo fabricada con dos diamantes y un palo, ideal para builds ofensivas."
   },
@@ -21,7 +20,6 @@
     "armorPoints": 8,
     "enchantability": 15,
     "recommendedEnchantments": ["Protección IV", "Irrompibilidad III", "Reparación", "Espinas III"],
-    "releaseDate": "2020-06-23",
     "image": "assets/img/peto-netherita.png",
     "description": "Pieza de armadura superior resistente a la lava que otorga resistencia al empuje."
   },
@@ -33,7 +31,6 @@
     "attackDamage": 43,
     "height": 1.7,
     "drops": ["Pólvora", "Disco de música", "Cabeza de creeper"],
-    "releaseDate": "2009-08-31",
     "image": "assets/img/creeper.png",
     "description": "Criatura hostil silenciosa que se acerca al jugador y explota tras un breve siseo."
   }
